@@ -1,8 +1,7 @@
 # First App Tutorial (Hello Sky)
 官网英文原文地址：http://dev.px4.io/tutorial-hello-sky.html
 
-This tutorial explains in detail how to create a new onboard application and how to run it.
-
+本教程详细解释了如何创建一个新的板载应用程序，以及如何运行它。
 ## Prerequisites
 
 - Pixhawk or Snapdragon compatible autopilot
